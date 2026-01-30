@@ -30,7 +30,8 @@ Durante todo o processo, a IA foi utilizada como **ferramenta de apoio**, e não
 🎥 **Vídeo – IA Generativa com Pensamento Crítico**
 
 ➡️ Clique para assistir ao vídeo do projeto:  
-[Assistir ao vídeo](./vídeo/ia-generativa-natural-ou-não.mp4)
+[Assistir ao vídeo](./exemplos/video/ia-generativa-natural-ou-não.mp4)
+
 
 O vídeo apresenta uma reflexão curta e objetiva sobre o uso consciente da IA generativa, evitando conteúdos genéricos e artificiais.
 
